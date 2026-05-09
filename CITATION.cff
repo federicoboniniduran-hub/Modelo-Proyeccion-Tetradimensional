@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si utilizas, citas, auditas o desarrollas este trabajo, por favor cita al autor original."
+title: "Modelo de Proyección Energética Tetradimensional"
+authors:
+  - family-names: "Bonini Duran"
+    given-names: "Federico"
+version: "1.0"
+date-released: "2026-05-09"
+license: "CC-BY-SA-4.0"
+url: "https://github.com/federicoboniniduran-hub/Modelo-Proyeccion-Tetradimensional"
+abstract: "Formulación física teórica sobre límite dimensional, causalidad no probabilística, conservación energética y reinterpretación de fenómenos límite en relatividad, mecánica cuántica, caos, agujeros negros, materia oscura y energía oscura."
